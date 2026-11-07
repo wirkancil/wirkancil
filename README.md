@@ -20,6 +20,7 @@ I build the financial backbone of an omni-commerce ERP: marketplace integrations
 
 ### Projects
 
+- **Bharata ERP** (private, PT Bharata Internasional Pharmaceutical) — Omni-commerce ERP on 21 Go microservices: unified omnichannel order management across TikTok Shop, Shopee, Lazada, and Meta Commerce, a cash-basis profitability engine, KPI scoring and incentive payouts, automated bookkeeping, and marketing analytics. Leading a team of four engineers.
 - **[fishcounter](https://github.com/wirkancil/fishcounter)** — Real-time fish counting with YOLOv8, Flask, and ESP32-CAM for aquaculture monitoring. Registered copyright, Indonesian Ministry of Law (No. 000847585).
 - **Clicker Platform** — Multi-tenant SaaS with pluggable modules (POS, Inventory, Membership, Reservation, Sales Pipeline) and an AI sales agent for lead capture.
 - **IdeaMills** — AI video pre-production SaaS that automates marketing scriptwriting and storyboarding with multimodal LLMs.
